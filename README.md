@@ -48,18 +48,18 @@ cd STDCA-DA
 
 1. Dataset structure (example):
 
-   ```plaintext
-   MPHC_pre_4S/
-├── HC/                          
-│   ├── H S1 EO.mat               
+  ```plaintext
+MPHC_pre_4S/
+├── HC/                           # 健康对照组
+│   ├── H S1 EO.mat                # 示例文件：H 表示健康，S1 表示被试1，EO 表示睁眼状态
 │   ├── H S2 EO.mat
-│   ├── ...                       
-│   └── H S30 EO.mat
-└── MDD/                         
-    ├── MDD S1 EO.mat             
+│   ├── ...                        # 其他 HC 文件
+│   └── H Sxx EO.mat
+└── MDD/                          # 抑郁症患者组
+    ├── MDD S1 EO.mat              # 示例文件：MDD 表示抑郁症，S1 被试1，EO 睁眼
     ├── MDD S2 EO.mat
     ├── ...
-    └── MDD S34 EO.mat
+    └── MDD Sxx EO.mat
 ```
 
 ### 4.3 Training and testing Commands
