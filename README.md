@@ -9,8 +9,8 @@ This is an official repository related to the paper **"STDCA-DA"**.
 ## 1. Project Introductio
 We propose STDCA‑DA, an end‑to‑end deep learning framework for EEG‑based depressive disorder (DD) detection. It integrates spatiotemporal dual cross‑attention with adversarial domain adaptation to tackle cross‑subject generalization challenges caused by EEG inter‑subject variability. The model uses parallel convolutional branches to learn disentangled spatiotemporal features, a dual‑attention mechanism for deep spatiotemporal interaction, and adversarial domain adaptation to align subject feature distributions and mitigate domain shifts.
 - Core Contributions:
-  1. Aims to address the challenge of limited cross‑subject generalization in EEG‑based depressive disorder (DD) detection, thereby helping to mitigate the adverse effects of inherent inter‑subject variability in EEG signals.
-  2. Proposes STDCA‑DA, a novel end‑to‑end deep learning framework integrating spatiotemporal dual cross‑attention with adversarial domain adaptation for robust DD detection.
+  1. Proposes STDCA‑DA, a novel end‑to‑end deep learning framework integrating spatiotemporal dual cross‑attention with adversarial domain adaptation for robust DD detection.
+  2. Aims to address the challenge of limited cross‑subject generalization in EEG‑based depressive disorder (DD) detection, thereby helping to mitigate the adverse effects of inherent inter‑subject variability in EEG signals.
   3. On the public MPHC dataset, our method demonstrates strong performance through ten‑fold cross‑validation, exhibiting promising generalization capability and highlighting its value as a novel approach for EEG‑based DD detection.
 
 ## 2. Core Challenges
