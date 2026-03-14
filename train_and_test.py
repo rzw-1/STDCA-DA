@@ -307,9 +307,6 @@ def main():
         print(f"Precision: {test_results['precision']:.4f}")
         print(f"F1 Score: {test_results['f1_score']:.4f}")
 
-        print("Confusion Matrix:")
-        print(test_results['confusion_matrix'])
-
     avg_accuracy = np.mean([r['accuracy'] for r in fold_results])
     avg_sensitivity = np.mean([r['sensitivity'] for r in fold_results])
     avg_specificity = np.mean([r['specificity'] for r in fold_results])
