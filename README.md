@@ -1,6 +1,6 @@
 # STDCA-DA: An integrated deep learning framework for EEG-based depression detection with spatiotemporal dual cross-attention and domain adaptation
 
-This is an official repository related to the paper **"STDCA-DA-Net"**.
+This is an official repository related to the paper **"STDCA-DA"**.
 
 - **Paper link:** []  
 - **Author:** [Dongxiao Zhang]，[Shunbin Chen], [Jialiang Xie]  
