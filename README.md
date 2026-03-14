@@ -23,7 +23,7 @@ We propose CBPE-Net, a novel deep learning framework for continuous blood pressu
 ### 6.1 Environmental Requirements
 
 - **System**: Ubuntu 18.04
-- **Software**: Python 3.8, PyTorch 1.13.1, CUDA 11.4
+- **Software**: Python, PyTorch 1.13.1, CUDA 11.4
 - **Hardware**: Intel Xeon(R) Silver 4208 CPU, NVIDIA Tesla V100S, 128GB RAM
 
 ### 6.2 Core Training Parameters
