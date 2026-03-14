@@ -48,6 +48,7 @@ cd STDCA-DA
 
 1. Dataset structure (example):
 
+   ```plaintext
    MPHC_pre_4S/
 ├── HC/                          
 │   ├── H S1 EO.mat               
