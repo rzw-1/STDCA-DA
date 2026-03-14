@@ -3,8 +3,8 @@
 This is an official repository related to the paper **"STDCA-DA"**.
 
 - **Paper link:** []  
-- **Author:** [Dongxiao Zhang]，[Shunbin Chen], [Jialiang Xie]  
-- **Dataset link:** [https://www.kaggle.com/datasets/mkachuee/BloodPressureDataset]
+- **Author:** [Dongxiao Zhang]，[Zhiwei Rao], [Weijun Gu]  
+- **Dataset link:** [https://figshare.com/articles/dataset/EEG_Data_New/4244171]
 
 ## 1. Project Introductio
 We propose CBPE-Net, a novel deep learning framework for continuous blood pressure estimation. The model integrates cross-scale skip connections (CSSC) to reinforce the fusion of shallow details with deep semantic features, and employs a multi-scale cross-attention mechanism (MSCA) to dynamically guide interactions across different feature scales. Combined with a sliding-window strategy (step size 0.008 s), the model outputs the corresponding instantaneous BP value at each time step, realizing true continuous prediction
