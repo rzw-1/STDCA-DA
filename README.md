@@ -61,6 +61,8 @@ MPHC_pre_4S/
     ├── ...
     └── MDD S34 EO.mat
 ```
+2. The assignment of subjects to each fold’s test set is stored in 10_fold_subjects.txt.
+
 
 ### 4.3 Training and testing Commands
 
