@@ -48,13 +48,18 @@ cd STDCA-DA
 
 1. Dataset structure (example):
 
-
-   ```plaintext
-   UCI_Dataset/
-     ├── part1.mat      
-     ├── ...  
-     └── part12.mat  
-   ```
+   MPHC_pre_4S/
+├── HC/                          
+│   ├── H S1 EO.mat               
+│   ├── H S2 EO.mat
+│   ├── ...                       
+│   └── H S30 EO.mat
+└── MDD/                         
+    ├── MDD S1 EO.mat             
+    ├── MDD S2 EO.mat
+    ├── ...
+    └── MDD S34 EO.mat
+```
 
 ### 4.3 Training and testing Commands
 
