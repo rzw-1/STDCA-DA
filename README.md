@@ -40,11 +40,8 @@ We propose CBPE-Net, a novel deep learning framework for continuous blood pressu
 
 ```bash
 # Clone repository
-git clone https://github.com/abin7777/CBPE-Net.git
-cd CBPE-Net
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/rzw-1/STDCA-DA.git
+cd STDCA-DA
 ```
 
 ### 4.2 Data Preparation
