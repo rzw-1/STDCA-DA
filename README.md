@@ -66,9 +66,3 @@ pip install -r requirements.txt
 python train_and_test.py
 ```
 
-### 4.4 Visualization
-
-```bash
-# Visualize results 
-python visualize.py
-```
