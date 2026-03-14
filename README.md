@@ -30,10 +30,9 @@ We propose CBPE-Net, a novel deep learning framework for continuous blood pressu
 
 | Parameter                | Value                                           |
 | ------------------------ | ----------------------------------------------- |
-| Learning rate            | 0.1                                             |
-| Batch size               | 300                                             |
-| Epochs                   | 10                                              |
-| Accumulation steps       | 10                                              |
+| Learning rate            | 0.0001                                          |
+| Batch size               | 32                                              |
+| Epochs                   | 200                                             |
 
 ## 4. Usage Guide
 
