@@ -1,0 +1,39 @@
+Fold 1:
+  HC test: ['H S15 EO.mat', 'H S28 EO.mat', 'H S26 EO.mat']
+  MDD test: ['MDD S18 EO.mat', 'MDD S6 EO.mat', 'MDD S22 EO.mat']
+
+Fold 2:
+  HC test: ['H S30 EO.mat', 'H S1 EO.mat', 'H S13 EO.mat']
+  MDD test: ['MDD S24 EO.mat', 'MDD S19 EO.mat', 'MDD S29 EO.mat']
+
+Fold 3:
+  HC test: ['H S11 EO.mat', 'H S7 EO.mat', 'H S4 EO.mat']
+  MDD test: ['MDD S13 EO.mat', 'MDD S2 EO.mat', 'MDD S32 EO.mat']
+
+Fold 4:
+  HC test: ['H S24 EO.mat', 'H S8 EO.mat', 'H S9 EO.mat']
+  MDD test: ['MDD S21 EO.mat', 'MDD S17 EO.mat', 'MDD S1 EO.mat']
+
+Fold 5:
+  HC test: ['H S6 EO.mat', 'H S3 EO.mat', 'H S2 EO.mat']
+  MDD test: ['MDD S28 EO.mat', 'MDD S31 EO.mat', 'MDD S23 EO.mat']
+
+Fold 6:
+  HC test: ['H S5 EO.mat', 'H S21 EO.mat', 'H S10 EO.mat']
+  MDD test: ['MDD S3 EO.mat', 'MDD S20 EO.mat', 'MDD S14 EO.mat']
+
+Fold 7:
+  HC test: ['H S17 EO.mat', 'H S22 EO.mat', 'H S29 EO.mat']
+  MDD test: ['MDD S9 EO.mat', 'MDD S27 EO.mat', 'MDD S30 EO.mat']
+
+Fold 8:
+  HC test: ['H S20 EO.mat', 'H S27 EO.mat', 'H S16 EO.mat']
+  MDD test: ['MDD S16 EO.mat', 'MDD S10 EO.mat', 'MDD S11 EO.mat']
+
+Fold 9:
+  HC test: ['H S12 EO.mat', 'H S19 EO.mat']
+  MDD test: ['MDD S4 EO.mat', 'MDD S34 EO.mat', 'MDD S26 EO.mat']
+
+Fold 10:
+  HC test: ['H S23 EO.mat', 'H S18 EO.mat']
+  MDD test: ['MDD S15 EO.mat', 'MDD S5 EO.mat', 'MDD S33 EO.mat']
