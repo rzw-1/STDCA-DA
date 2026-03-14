@@ -67,4 +67,5 @@ cd STDCA-DA
 # Train and test on UCI Dataset
 python train_and_test.py
 ```
+```
 
