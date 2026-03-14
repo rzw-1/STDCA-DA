@@ -14,9 +14,9 @@ We propose STDCA‑DA, an end‑to‑end deep learning framework for EEG‑based
   3. On the public MPHC dataset, our method demonstrates strong performance through ten‑fold cross‑validation, exhibiting promising generalization capability and highlighting its value as a novel approach for EEG‑based DD detection.
 
 ## 2. Core Challenges
-1. Existing cuffless BP estimation methods typically produce only beat-level outputs, limiting their ability to support real-time, continuous monitoring—an essential requirement for dynamic hemodynamic assessment in clinical settings. These limitations underscore the urgent need for an end-to-end model capable of high–temporal-resolution continuous BP prediction.
-2. ECG and PPG signals contain rich information across multiple temporal scales (e.g., heart rate, pulse transit time, waveform morphology). Capturing and integrating these cross-scale features effectively is technically challenging.
-3. Deep learning models often operate as "black boxes," making it unclear how ECG signals specifically contribute to blood pressure (BP) estimation. Understanding the underlying physiological mechanisms remains an open challenge.
+1. Despite achieving strong performance, the inherent black‑box nature of deep learning still limits the interpretability of the model’s decision‑making process, suggesting that further efforts are needed to enhance transparency and explainability.
+2. While cross‑subject generalization has been addressed, broader challenges such as cross‑scenario and cross‑device variability remain unexplored, leaving open questions about the robustness of the framework in diverse real‑world conditions.
+3. The evaluation setting follows a transductive unsupervised domain adaptation scenario, where unlabeled target data from the test fold are incorporated during training. Although this improves alignment, it also raises the need for future work to validate inductive settings and ensure broader applicability.
 
 ## 3. Parameter Configuration
 
