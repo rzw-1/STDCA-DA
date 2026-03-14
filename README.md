@@ -1,6 +1,6 @@
-# Continuous Blood Pressure Estimation from ECG and PPG Signals via a Novel Multi-Scale Cross-Attention Architecture with Cross-Scale Skip Connections
+# STDCA-DA: An integrated deep learning framework for EEG-based depression detection with spatiotemporal dual cross-attention and domain adaptation
 
-This is an official repository related to the paper **"CBPE-Net"**.
+This is an official repository related to the paper **"STDCA-DA-Net"**.
 
 - **Paper link:** []  
 - **Author:** [Dongxiao Zhang]，[Shunbin Chen], [Jialiang Xie]  
